@@ -1,2 +1,2 @@
-add jane.png
+delete jane.png
 add mod.ini
