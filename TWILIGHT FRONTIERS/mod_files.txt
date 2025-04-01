@@ -1,4 +1,4 @@
+add render/VioletRenderOST (1).png
+add render/VioletRose (1).png
 add PATCH_NOTES_FOR_NEXT_UPDATE.txt
-add /render/VioletRenderOST (1).png
-add /render/VioletRose (1).png
 add mod.ini
