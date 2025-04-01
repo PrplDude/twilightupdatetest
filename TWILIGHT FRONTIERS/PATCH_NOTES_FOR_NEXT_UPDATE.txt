@@ -1,0 +1,22 @@
+TWILIGHT FRONTIERS
+Patch Notes for the next update:
+(4/1/25)
+
+FIXES & CHANGES:
+- LUNACY (KNIGHT Variant) boss music not playing
+- Boost meter slightly modified to last longer
+- Acceleration in 3D Cyberspace slightly motified when walking and grinding on rails
+- Replaces current Violet model with the new one from the Gamebanana page (with superform)
+
+ADDED:
+- New Amy model
+- Ring replacements (Chaos Shards)
+- New animations
+
+
+Please note that some of the things listed are not final, and more will come when the next update drops.
+For now, please check out and enjoy some extra content that is located inside the mod folder!
+
+This update will drop this Saturday on the 5th.
+
+Also happy april fools lol
