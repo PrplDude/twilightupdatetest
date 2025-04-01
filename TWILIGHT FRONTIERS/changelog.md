@@ -1,4 +1,4 @@
-## Twilight Frontiers v1.3
+## Twilight Frontiers v1.4
 - added a couple of extra content for the wait before the next actual update
 - still removed jane doe png
 - removed herobrine (whatever that means)
