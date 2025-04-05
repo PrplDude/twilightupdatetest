@@ -1,4 +1,8 @@
-add render/VioletRenderOST (1).png
-add render/VioletRose (1).png
-add PATCH_NOTES_FOR_NEXT_UPDATE.txt
+add /raw/character/amy.pac
+add /raw/character/playercommon.pac
+add /raw/character/sonic.pac
+add /raw/character/supersonic.pac
+add /raw/CommonObject.pac
+add/raw/sound/knight01_sound/bgm_boss03.acb
+add /raw/sound/knight01_sound/bgm_boss03.awb
 add mod.ini
