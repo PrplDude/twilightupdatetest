@@ -1,55 +1,59 @@
-# PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6.2
+# ANOTHER PATCH UPDATE v1.6.3
+- Actually placed the fixed stuff in the files (I missed one step somehow)
 
-## FIXES & CHANGES:
+
+## [Old Updates]
+
+ PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6.2
+
+ FIXES & CHANGES:
 - LUNACY (KNIGHT Variant) boss music not playing
 - Boost meter slightly modified to last longer
 - Acceleration in 3D Cyberspace slightly motified when walking and grinding on rails
 - Replaces current Violet model with the new one from the Gamebanana page (with superform)
 
-## ADDED:
+ ADDED:
 - New Amy model
 - Ring replacements (Chaos Shards)
 - New animations
 
+ PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6
 
-# [Old Updates]
-# PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6
-
-## FIXES & CHANGES:
+ FIXES & CHANGES:
 - LUNACY (KNIGHT Variant) boss music not playing
 - Boost meter slightly modified to last longer
 - Acceleration in 3D Cyberspace slightly motified when walking and grinding on rails
 - Replaces current Violet model with the new one from the Gamebanana page (with superform)
 
-## ADDED:
+ ADDED:
 - New Amy model
 - Ring replacements (Chaos Shards)
 - New animations
 
-# PATCH NOTES FOR TWILIGHT FRONTIERS	v1.5
+ PATCH NOTES FOR TWILIGHT FRONTIERS	v1.5
 
-## FIXES & CHANGES:
+ FIXES & CHANGES:
 - LUNACY (KNIGHT Variant) boss music not playing
 - Boost meter slightly modified to last longer
 - Acceleration in 3D Cyberspace slightly motified when walking and grinding on rails
 - Replaces current Violet model with the new one from the Gamebanana page (with superform)
 
-## ADDED:
+ ADDED:
 - New Amy model
 - Ring replacements (Chaos Shards)
 - New animations
 
 
-## Twilight Frontiers v1.4
+ Twilight Frontiers v1.4
 - added a couple of extra content for the wait before the next actual update
 - still removed jane doe png
 - removed herobrine (whatever that means) 
 
-## TWILIGHT FRONTIERS v1.2
+ TWILIGHT FRONTIERS v1.2
 - removed the jane doe easter egg png
 
-## Jane Doe Test
+ Jane Doe Test
 - it's just a png to see if it works
 
-## TWILIGHT FRONTIERS v1.1
+ TWILIGHT FRONTIERS v1.1
 - First Release
