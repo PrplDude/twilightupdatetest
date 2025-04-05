@@ -1,14 +1,9 @@
-delete PATCH_NOTES_FOR_NEXT_UPDATE.txt
-delete /raw/character/amy.pac
-delete /raw/character/playercommon.pac
-delete /raw/character/sonic.pac
-delete /raw/character/supersonic.pac
-add /raw/character/amy.pac
-add /raw/character/playercommon.pac
-add /raw/character/sonic.pac
-add /raw/character/supersonic.pac
-add /raw/CommonObject.pac
-add /raw/sound/knight01_sound/bgm_boss03.acb
-add /raw/sound/knight01_sound/bgm_boss03.awb
+add raw/character/amy.pac
+add raw/character/playercommon.pac
+add raw/character/sonic.pac
+add raw/character/supersonic.pac
+add raw/sound/knight01_sound/bgm_boss03.acb
+add raw/sound/knight01_sound/bgm_boss03.awb
+add raw/CommonObject.pac
 add PATCH NOTES.txt
 add mod.ini
