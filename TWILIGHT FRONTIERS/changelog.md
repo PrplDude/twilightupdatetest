@@ -1,3 +1,18 @@
+# PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6.2
+
+## FIXES & CHANGES:
+- LUNACY (KNIGHT Variant) boss music not playing
+- Boost meter slightly modified to last longer
+- Acceleration in 3D Cyberspace slightly motified when walking and grinding on rails
+- Replaces current Violet model with the new one from the Gamebanana page (with superform)
+
+## ADDED:
+- New Amy model
+- Ring replacements (Chaos Shards)
+- New animations
+
+
+# [Old Updates]
 # PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6
 
 ## FIXES & CHANGES:
@@ -11,7 +26,6 @@
 - Ring replacements (Chaos Shards)
 - New animations
 
-# [Old Updates]
 # PATCH NOTES FOR TWILIGHT FRONTIERS	v1.5
 
 ## FIXES & CHANGES:
