@@ -1,4 +1,4 @@
-# TWILIGHT FRONTIERS v1.6.4
+# TWILIGHT FRONTIERS v1.6.5
 - Check the files in the Twilight Frontiers mod folder, and follow the instructions.
 
 ## [Old Updates]
