@@ -1,9 +1,5 @@
-add raw/character/amy.pac
-add raw/character/playercommon.pac
-add raw/character/sonic.pac
-add raw/character/supersonic.pac
-add raw/sound/knight01_sound/bgm_boss03.acb
-add raw/sound/knight01_sound/bgm_boss03.awb
-add raw/CommonObject.pac
-add PATCH NOTES.txt
+add raw/gedit/w8d01_gedit.pac
+add CyberSpace 1-2 [PLEASE READ].txt
+add Herobrine.jpg
+delete PATCH NOTES.txt
 add mod.ini
