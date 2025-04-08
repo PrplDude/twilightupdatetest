@@ -1,3 +1,4 @@
+delete jane.png
 add raw/gedit/w8d01_gedit.pac
 add CyberSpace 1-2 [PLEASE READ].txt
 add Herobrine.jpg
