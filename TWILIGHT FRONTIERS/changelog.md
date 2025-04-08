@@ -1,8 +1,11 @@
+# TWILIGHT FRONTIERS v1.6.4
+- Check the files in the Twilight Frontiers mod folder, and follow the instructions.
+
+## [Old Updates]
+
 # ANOTHER PATCH UPDATE v1.6.3
 - Actually placed the fixed stuff in the files (I missed one step somehow)
 
-
-## [Old Updates]
 
  PATCH NOTES FOR TWILIGHT FRONTIERS	v1.6.2
 
