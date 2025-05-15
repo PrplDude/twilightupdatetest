@@ -1,6 +1,10 @@
-delete jane.png
+add raw/character/playercommon.pac
 add raw/gedit/w8d01_gedit.pac
-add CyberSpace 1-2 [PLEASE READ].txt
-add Herobrine.jpg
+add raw/gedit/w8d05_gedit.pac
+add raw/stage/w8d05/w8d05_misc.pac
+add raw/stage/w8d06/w8d06_misc.pac
+mod.ini
 delete PATCH NOTES.txt
+delete Herobrine.jpg
+delete CyberSpace 1-2 [PLEASE READ].txt
 add mod.ini
