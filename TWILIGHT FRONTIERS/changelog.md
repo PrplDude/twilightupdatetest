@@ -1,3 +1,10 @@
+# TWILIGHT FRONTIERS v1.6.6
+- Updated Cyber Space 1-2
+- Cyber Space 3-6 and 2-7 graphic files has been updated
+- Cyber Space 2-7 has been extended
+- Updated Violet's moveset in Cyber Space
+
+
 # TWILIGHT FRONTIERS v1.6.5
 - Check the files in the Twilight Frontiers mod folder, and follow the instructions.
 
