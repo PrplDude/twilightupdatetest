@@ -6,6 +6,8 @@
 - Tweakde up a bit of Violet's combat moveset in the Open Zone
 - I'm tired (that one's a very important update)
 
+
+
 # TWILIGHT FRONTIERS v1.6.6
 - Updated Cyber Space 1-2
 - Cyber Space 3-6 and 2-7 graphic files has been updated
