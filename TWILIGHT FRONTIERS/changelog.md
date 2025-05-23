@@ -1,3 +1,11 @@
+# TWILIGHT FRONTIERS v1.6.7
+- Cyber Space 2-7 extension updated
+- Cyber Space 1-2 has been updated
+- Cyber Space 1-4 has been updated (there's a hidden switch somewhere in the stage)
+- Updated 2D Cyber Space controls
+- Tweakde up a bit of Violet's combat moveset in the Open Zone
+- I'm tired (that one's a very important update)
+
 # TWILIGHT FRONTIERS v1.6.6
 - Updated Cyber Space 1-2
 - Cyber Space 3-6 and 2-7 graphic files has been updated
