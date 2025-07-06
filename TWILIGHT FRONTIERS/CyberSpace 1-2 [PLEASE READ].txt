@@ -1,5 +1,0 @@
-Since the files are stupid big for no reason, here's the google drive file for it:
-
-https://drive.google.com/file/d/1MrDWR54QnTeUBtwdQEhJcEC7uGTXXA6J/view?usp=sharing
-
-All you have to do is extract it, move the .pac files into the original w8d01 folder and replace the copies with the ones you downloaded
