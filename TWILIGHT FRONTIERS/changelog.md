@@ -1,3 +1,20 @@
+# TWILIGHT FRONTIERS v1.9
+THIS IS THE FINAL VERSION 1.0 UPDATE.
+- Small tweaks on some stages
+- Cyber Space 1-2 has been updated
+- Cyber Space 2-7 also has been updated
+- The CG Render of Violet is now playable, as well as the super form!
+- small little easter eggs in the mod files.
+Thank you for still supporting this mod. As of now, this mod file will not recieve anymore updates, as Version 2.0 requires a seperate download- and in need of sudden improvements where a simple GitHub update can't handle. When version 2.0 releases, its suggested for you to delete this version of the mod to save up space. 
+
+
+
+
+
+
+
+
+
 # TWILIGHT FRONTIERS v1.6.7
 - Cyber Space 2-7 extension updated
 - Cyber Space 1-2 has been updated
