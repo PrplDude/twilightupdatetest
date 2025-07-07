@@ -1,4 +1,4 @@
-# TWILIGHT FRONTIERS v1.9
+# TWILIGHT FRONTIERS v1.9.9
 THIS IS THE FINAL VERSION 1.0 UPDATE.
 - Small tweaks on some stages
 - Cyber Space 1-2 has been updated
