@@ -1,6 +1,6 @@
 add different models over the months.png
 add what.mp4
-addrevisited logo (low demo).mp4
+add revisited logo (low demo).mp4
 add raw/character/sonic.pac
 add raw/character/supersonic.pac
 add raw/gedit/w8d01_gedit.pac
