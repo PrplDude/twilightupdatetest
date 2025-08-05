@@ -1,3 +1,4 @@
+add raw/gedit/w8d01_gedit.pac
 add different models over the months.png
 add what.mp4
 add revisited logo (low demo).mp4
