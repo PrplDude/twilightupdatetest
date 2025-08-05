@@ -1,6 +1,7 @@
 # TWILIGHT FRONTIERS v1.9 PATCH
 - Blocked off the extension of 1-2 (will be fixed for update 2.0)
-Thank you for still supporting this mod. As of now, this mod file will not recieve anymore updates, as Version 2.0 requires a seperate download- and in need of sudden improvements where a simple GitHub update can't handle. When version 2.0 releases, its suggested for you to delete this version of the mod to save up space. 
+- Thank you for still supporting this mod. As of now, this mod file will not recieve anymore updates, as Version 2.0 requires a seperate download- and in need of sudden improvements where a simple GitHub update can't handle. When version 2.0 releases, its suggested for you to delete this version of the mod to save up space. 
+
 
 
 
